@@ -16,4 +16,6 @@
 
 [4 | ✨ Demographic Filtering](https://github.com/CSFelix/recommendation-system/blob/main/4%20-%20demographic%20filtering.ipynb)
 
+[5 | ✨ Content-Based Filtering for Plot Description](https://github.com/CSFelix/recommendation-system/blob/main/5%20-%20content-based%20filtering%20-%20plot%20description.ipynb)
+
 [Bonus | ⛏️ API Scrapper](https://github.com/CSFelix/recommendation-system/blob/main/bonus%20-%20scrapper.ipynb)
