@@ -18,4 +18,6 @@
 
 [5 | ✨ Content-Based Filtering for Plot Description](https://github.com/CSFelix/recommendation-system/blob/main/5%20-%20content-based%20filtering%20-%20plot%20description.ipynb)
 
+[6 | ✨ Content-Based Filtering for Metadatas](https://github.com/CSFelix/recommendation-system/blob/main/6%20-%20content-based%20filtering%20-%20metadatas.ipynb)
+
 [Bonus | ⛏️ API Scrapper](https://github.com/CSFelix/recommendation-system/blob/main/bonus%20-%20scrapper.ipynb)
