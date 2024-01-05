@@ -20,4 +20,6 @@
 
 [6 | ✨ Content-Based Filtering for Metadatas](https://github.com/CSFelix/recommendation-system/blob/main/6%20-%20content-based%20filtering%20-%20metadatas.ipynb)
 
+[7 | ✨ Collaborative Filtering User-Based](https://github.com/CSFelix/recommendation-system/blob/main/7%20-%20collaborative%20filtering%20-%20user%20based.ipynb)
+
 [Bonus | ⛏️ API Scrapper](https://github.com/CSFelix/recommendation-system/blob/main/bonus%20-%20scrapper.ipynb)
