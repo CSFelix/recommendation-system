@@ -22,4 +22,6 @@
 
 [7 | ✨ Collaborative Filtering User-Based](https://github.com/CSFelix/recommendation-system/blob/main/7%20-%20collaborative%20filtering%20-%20user%20based.ipynb)
 
+[8 | ✨ Collaborative Filtering Item-Based](https://github.com/CSFelix/recommendation-system/blob/main/8%20-%20collaborative%20filtering%20-%20item%20based.ipynb)
+
 [Bonus | ⛏️ API Scrapper](https://github.com/CSFelix/recommendation-system/blob/main/bonus%20-%20scrapper.ipynb)
