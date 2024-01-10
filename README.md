@@ -40,6 +40,8 @@
 
 [8 | ✨ Collaborative Filtering Item-Based](https://github.com/CSFelix/recommendation-system/blob/main/8%20-%20collaborative%20filtering%20-%20item%20based.ipynb)
 
+[9 | ✨ Hybrid Filtering](https://github.com/CSFelix/recommendation-system/blob/main/9%20-%20hybrid%20filtering.ipynb)
+
 ---
 
 # Comparing Recommendation System Models Results and Conclusion
