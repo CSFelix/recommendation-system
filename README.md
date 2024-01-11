@@ -46,7 +46,7 @@
 
 # Comparing Recommendation System Models Results and Conclusion
 
-> `Comming soon`
+[10 | 🎗️ Comparing the Models](https://github.com/CSFelix/recommendation-system/blob/main/bonus%20-%20comparing%20the%20models.ipynb)
 
 ---
 
